@@ -1,3 +1,3 @@
-## MATH-156: Precalculus
+## MATH-251: Calculus I
 Spring 2021 \\
 Zoom  
