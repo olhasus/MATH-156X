@@ -1,7 +1,6 @@
 .text {
   display: block;
-  width: 100px;
-  overflow: hidden;
+  width: 50px;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
