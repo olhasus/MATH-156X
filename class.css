@@ -1,6 +1,7 @@
-.text {
-  display: block;
-  width: 50px;
+p {
+  display:block;
   white-space: nowrap;
+  overflow: hidden;
   text-overflow: ellipsis;
+  max-width: 200px;
 }
