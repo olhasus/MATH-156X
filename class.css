@@ -1,7 +1,7 @@
-p {
-  display:block; 
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 1000px;
+.item {
+  dwidth: -moz-fit-content;
+  width: fit-content;
+  background-color: #8ca0ff;
+  padding: 5px;
+  margin-bottom: 1em;
 }
